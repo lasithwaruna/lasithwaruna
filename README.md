@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lasithwaruna
 - 👀 I’m interested in java
-- 🌱 I’m currently learning Kotlin and Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me lasithwaruna@gmail.com
 
